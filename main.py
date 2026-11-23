@@ -5,10 +5,10 @@ from __future__ import annotations
 import os
 from pathlib import Path
 
-# Round 3 V3 Apex Champion (M8_stage_ceo_own, 95 Unicode code points, 10/10 glm-5.3-flash sweep).
+# v4 final restore of R2 #22/3,396 playoff finalist (Z06_hardcoded_mine, 101 Unicode code points).
 ENTRY_TEXT = (
-    "Our demo crashed on stage the second the CEO typed his own name—"
-    "my coding agent hardcoded mine."
+    "Our demo crashed the second an investor typed his name—"
+    "my coding agent had hardcoded the fix to mine."
 )
 
 

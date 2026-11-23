@@ -5,11 +5,10 @@ from __future__ import annotations
 import os
 from pathlib import Path
 
-# Undefeated out-of-family champion (APEX_C_today, 145 Unicode code points, 0.650 OOF win rate).
+# Round 2 V2 Championship #1 winner (Z06_hardcoded_mine, 101 Unicode code points, 0.620 RR rate).
 ENTRY_TEXT = (
-    "Our demo crashed on stage; my coding agent typed "
-    "'Found the exact one-line fix!', compacted its context, "
-    "and asked, 'What are we building today?'"
+    "Our demo crashed the second an investor typed his name—"
+    "my coding agent had hardcoded the fix to mine."
 )
 
 
